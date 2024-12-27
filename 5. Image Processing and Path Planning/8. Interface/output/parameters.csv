@@ -1,0 +1,2 @@
+blur_ksize,canny_threshold1,canny_threshold2,dilate_iterations,erode_iterations,brightness,contrast,threshold_value,sharpness,histogram_equalization,rotation_angle,edge_detection_type,use_gaussian_blur,use_median_filter
+2,255,255,1,2,100,72,146,0,0,0,Canny,False,False
